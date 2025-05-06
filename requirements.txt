@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+transformers
+datasets
+scikit-learn
+fastapi[all]
+transformers[torch]
+uvicorn
+pydantic
+pickle
+tf-keras
