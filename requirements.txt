@@ -8,5 +8,4 @@ fastapi[all]
 transformers[torch]
 uvicorn
 pydantic
-pickle
 tf-keras
